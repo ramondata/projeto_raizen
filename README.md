@@ -33,3 +33,9 @@ Em seguida, com o Apache AirFlow, através de uma DAG com a tarefa de operator B
 a segunda tarefa do airflow é executar o script Pyspark, onde é lido o arquivo csv, convertido para dataframe spark e salvo no diretório da tabela tbl_derivative e tbl_diesel com seus respectivos dados. O arquivo parquet é também encaminhado para o diretório local no Ubuntu para acesso do usuário.
 
 Finalizando, o arquivo em planilha é disponibilizado em formato csv e em seguida salvo como formato colunar parquet tanto na pasta das tabelas no Hive quanto no diretório do projeto na Ubuntu.
+
+## Pontos que não deram tempo de finalizar ##
+- ELaboração do código do airflow(apenas foi versionado um código teste inicial)
+- Comandos Spark que gerariam os arquivos parquet após a leitura do arquivo csv, ja disponibilizado
+- Conexão entre o servidor ubuntu e o servidor do Docker pra input de arquivos no HDFS do Docker
+- Disponibilização dos arquivos Parquet no ambiente Ubuntu pro usuário
