@@ -18,6 +18,7 @@ Criação de pipeline de dados com intuito de obter dados de uma planilha com mu
 - Instalação de bibliotecas Python utilizadas do ecossistema tais como: pandas, xlrd, openpyxl, xlsxwrite
 - Instalação do Git no windows
 - Instalação do LibreOffice
+- Instalação do Java JDK e Pyspark no Ubuntu para testes locais no airflow Docker
 
 ## Arquitetura do projeto ##
 

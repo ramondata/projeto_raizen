@@ -82,5 +82,6 @@ else:
     obj1.get_data_diesel_uf_type()
     obj1.save_data_csv_derivative()
     obj1.save_data_csv_diesel()
+    print("RC = 0")
     #print(obj1._data_list_1)
     #print(obj1._data_list_2)
