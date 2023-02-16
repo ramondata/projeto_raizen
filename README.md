@@ -39,4 +39,3 @@ Finalizando, o arquivo em planilha é disponibilizado em formato csv e em seguid
 - ELaboração do código do airflow(apenas foi versionado um código teste inicial)
 - Comandos Spark que gerariam os arquivos parquet após a leitura do arquivo csv, ja disponibilizado
 - Conexão entre o servidor ubuntu e o servidor do Docker pra input de arquivos no HDFS do Docker
-- Disponibilização dos arquivos Parquet no ambiente Ubuntu pro usuário
