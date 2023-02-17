@@ -5,7 +5,7 @@
 ## TL,DR ##
 Criação de pipeline de dados com intuito de obter dados de uma planilha com muitas informações distintas e disponibilizar em formato colunar parquet.
 
-## Detalhamento do processo de desenvolvimento ##
+## Detalhamento do processo de desenvolvimento do ambiente ##
 
 - Criação de uma máquina virtual Azure com imagem de windows 10
 - Configurações de ambiente linux no windows
